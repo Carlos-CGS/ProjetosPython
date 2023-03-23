@@ -1,2 +1,4 @@
-# ProjetosPython
-Projetos próprios em linguagem Python
+# Projetos próprios em linguagem Python
+
+##Validador de CPF (códigos simples)
+##Validador de CPF (códigos práticos)
