@@ -2,7 +2,7 @@
 
 ✅ [App Bancário Upgrade](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio%20Upgrade) | Desafios de Códigos propostos pela DIO em um BootCamp da plataforma.
 
-✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosKotlin/tree/main/Tratamento-Excecao-Kotlin) | Trecho de código que cria uma exceção personalizada e a utiliza.
+✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Trecho de código que cria uma exceção personalizada e a utiliza.
 
 ✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosKotlin/tree/main/aprenda-kotlin-com-exemplos-lab-main) | Desafio de projeto do BooteCamp Kotlin da DIO.
 
