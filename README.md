@@ -1,11 +1,21 @@
-# Projetos Desenvolvidos em Linguagem Python
+# Desafio de Projeto DIO
 
-✅ [Aplicativo Bancário - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Desafio de projeto da DIO, onde foi solicitado criar um applicativo bancário em python.
+## Upgrade da Crianção do Sistema Bancário com Python
 
-✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Interpola%C3%A7%C3%A3o%20de%20Variaveis%20-%20Python) | Três exemplos práticos de como fazer uma interpolação de variáveis em Python, a no final um exemplo de como definir as casas decimais.
+### Atualização e Aprimoramento do Desafio de projeto da DIO, onde foi solicitado criar um applicativo bancário com as seguintes especificidades:
 
-✅ [Maior Idade CNH - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Código Python que verifica se a pessoa é maior de idade para iniciar o processo de obtenção da CNH a partir da idade informada pelo usuário.
+✅ Código Python com menu de quatro opções (Depositar, Sacar, Extrato, Fim/Sair) observando as seguintes regras:
 
-✅ [Validador de CPF (códigos Melhorado / Resumido)](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Validador%20CPF%20Python%20-%20vers%C3%A3o%20Melhorada) | Versão de Código mais concisa, resumida, em linguagem python.
+✅ Depósisitos = há uma verificação, onde não permite depósitos negativos;
 
-✅ [Validador de CPF Python (códigos simples)](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Validador%20de%20CPF%20Python%20-%20C%C3%B3digo%20Simples) | Versão de código simples, para que qualquer Dev consiga entender, independente da linguagem que estuda.
+✅ Saques = Só podem ocorrer 03 saques, Há um limite de R$500,00 por saque, o valor sacado não pode ser maior que o valor do saldo;
+
+✅ Extrato = Exibir todos os depósitos e saques efetuados, informando o total disponível na conta ao final;
+
+✅ Novo usuário = deve ser criado um usuário com CPF único, nome completo, data de nascimento e endereço nos formatos solicitados no sistema;
+
+✅ Nova Conta = Criar uma conta para o usuário, onde a conta só pode ter um usuário, mas um usuário pode ter mais de uma conta;
+
+✅ Listar Contas = Opção que lista todas as contas existentes no sistema;
+
+✅ Listar Usuários = Opção que exibe todos os usuários cadastrados no sistema, informando o nome e cpf.
