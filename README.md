@@ -6,7 +6,7 @@
 
 ✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Interpola%C3%A7%C3%A3o%20de%20Variaveis%20-%20Python) | Interpolação de Variáveis.
 
-✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosKotlin/tree/main/calculadora_simples_Kotlin-main) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
+✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
 
 ✅ [Validador de CPF - Versão Aprimorada](https://github.com/Carlos-CGS/ProjetosKotlin/tree/main/calculadora_simples_Kotlin-main) | Validador de CPF em escrito de forma correta.
 ✅ [Validador de CPF - Código Simples](https://github.com/Carlos-CGS/ProjetosKotlin/tree/main/calculadora_simples_Kotlin-main) | Validador de CPF escrito em linguagem simples, onde qualquer pessoa, independente da linguagem eu estuda, consegue interpretar.
