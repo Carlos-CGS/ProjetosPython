@@ -2,7 +2,7 @@
 
 ✅ [App Bancário Upgrade](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio%20Upgrade) | Desafios de Códigos propostos pela DIO para aprimorar o aplicativo bancário anterior com algumas funções a mais.
 
-✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Aplicativo que simila um banco com algumas regras de negócio.
+✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Aplicativo que simila um banco com algumas regras de negócio, este exercício foi proposto em um bootcamp da DIO.
 
 ✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Interpola%C3%A7%C3%A3o%20de%20Variaveis%20-%20Python) | Interpolação de Variáveis.
 
