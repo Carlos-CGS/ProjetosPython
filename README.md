@@ -1,6 +1,6 @@
 # Projetos Desenvolvidos em Linguagem Python
 
-[Aplicativo Bancário - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | 
+✅ [Aplicativo Bancário - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Desafio de projeto da DIO, onde foi solicitado criar um applicativo bancário em python.
 
 ✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Interpola%C3%A7%C3%A3o%20de%20Variaveis%20-%20Python) | Três exemplos práticos de como fazer uma interpolação de variáveis em Python, a no final um exemplo de como definir as casas decimais.
 
