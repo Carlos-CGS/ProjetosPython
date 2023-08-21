@@ -4,6 +4,7 @@
 
 ✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Aplicativo que simila um banco com algumas regras de negócio, este exercício foi proposto em um bootcamp da DIO.
 
+✅ [Desafio de Código - Powered by Ifood - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Codigo%20BootCamp%20-%20Pot%C3%AAncia%20Tech%20powered%20by%20iFood%20-%20Ci%C3%AAncia%20de%20Dados) | Resolução de cinco desafios de código do BootCamp Potência Tech powered by iFood | Ciência de Dados.
 ✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Interpola%C3%A7%C3%A3o%20de%20Variaveis%20-%20Python) | Interpolação de Variáveis.
 
 ✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
