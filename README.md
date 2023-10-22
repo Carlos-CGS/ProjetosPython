@@ -12,6 +12,8 @@
 
 ✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
 
+✅ [Relógio Digital em Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Rel%C3%B3gio%20Digital%20em%20Python) | Projeto onde crio um relógio digital com interface.
+
 ✅ [Desafio de Código - BootCamp Santander 2023 - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Santander%20Bootcamp%202023%20-%20%20Desafio%20Codigo%20-%20Ciencia%20de%20Dados%20com%20Python) | Solução dos cinco desafios de código dop Bootcamp Ciênica de Dados com Python.
 
 ✅ [Validador de CPF - Versão Aprimorada](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Validador%20CPF%20Python%20-%20vers%C3%A3o%20Melhorada) | Validador de CPF em escrito de forma correta.
