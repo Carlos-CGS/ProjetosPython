@@ -19,3 +19,6 @@
 ✅ [Validador de CPF - Versão Aprimorada](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Validador%20CPF%20Python%20-%20vers%C3%A3o%20Melhorada) | Validador de CPF em escrito de forma correta.
 
 ✅ [Validador de CPF - Código Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Validador%20de%20CPF%20Python%20-%20C%C3%B3digo%20Simples) | Validador de CPF escrito em linguagem simples, onde qualquer pessoa, independente da linguagem eu estuda, consegue interpretar.
+
+✅ [Validador Senha - Força da Senha](https://github.com/Carlos-CGS/ProjetosPython/tree/main/VerificarForcaSenha) | Validador de força de senha, que verifica o tamanho, se possui numeros, letras minusculas e maiusculas e caracteres especiais.
+
