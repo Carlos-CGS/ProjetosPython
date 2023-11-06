@@ -1,6 +1,6 @@
 from tkinter import *
 
-# CRiando as formas da janela calculadora
+# Criando as formas da janela calculadora
 win = Tk()
 win.geometry("313x335")
 win.resizable(0,0)
