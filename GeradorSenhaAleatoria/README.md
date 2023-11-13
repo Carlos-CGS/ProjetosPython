@@ -1,4 +1,4 @@
-# Gerador de senha Aleatória - Python
+# Gerador de Senha Aleatória - Python
 
 ### Trecho de código em python que gera senha aleatória 
 
