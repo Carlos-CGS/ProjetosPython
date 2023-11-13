@@ -12,6 +12,8 @@
 
 ✅ [Estruturas Básicas - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Estruturas%20Basicas) | Apresentação de estruturas como conversão de variáveis, for, while, listas, dicionários e funções em pyhthon.
 
+✅ [Gerador de senha Aleatória - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/GeradorSenhaAleatoria) | Trecho de código que gera senha alatória contendo numeros, letras maiusculas, minusculas e caracteres especiais.
+
 ✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
 
 ✅ [Relógio Digital em Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Rel%C3%B3gio%20Digital%20em%20Python) | Projeto onde crio um relógio digital com interface.
