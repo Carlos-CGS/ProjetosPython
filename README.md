@@ -4,6 +4,8 @@
 
 ✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Aplicativo que simila um banco com algumas regras de negócio, este exercício foi proposto em um bootcamp da DIO.
 
+✅ [Calendário em Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Calendario) | Código em python que gera um calendário visual em Python após solicitar ao usuário que indique o ano desejado.
+
 ✅ [Desafio de Código - Powered by Ifood - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Codigo%20BootCamp%20-%20Pot%C3%AAncia%20Tech%20powered%20by%20iFood%20-%20Ci%C3%AAncia%20de%20Dados) | Resolução de cinco desafios de código do BootCamp Potência Tech powered by iFood | Ciência de Dados.
 
 ✅ [Desafio de Projeto ETL(Extract - Transform - Load) - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Projeto%20-%20ETL%20-%20SantaderDevWeek) | Bootcamp Santander 2023 - Ciência de Dados com Python
