@@ -1,4 +1,4 @@
-# Projetos Desenvolvidos em Linguagem Python
+# <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png" height="50"> Projetos Desenvolvidos em Linguagem Python
 
 ✅ [App Bancário Upgrade](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio%20Upgrade) | Desafios de Códigos propostos pela DIO para aprimorar o aplicativo bancário anterior com algumas funções a mais.
 
