@@ -1,6 +1,6 @@
 # Gerador de Números da Mega Sena
 
-### Criação de um simulador de criação de jogos de seis númeors para a aposta na mega sena
+### Simulador de criação de jogos de seis números para Mega Sena, de duas formas de sintaxe, a correta e a fácil de entender.
 
 - Neste projeto tive de importar a biblioteca ```Random```;
 - No primeiro código, eu criei um array e fui adicionando número um a um;
