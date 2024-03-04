@@ -14,6 +14,8 @@
 
 ✅ [Estruturas Básicas - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Estruturas%20Basicas) | Apresentação de estruturas como conversão de variáveis, for, while, listas, dicionários e funções em pyhthon.
 
+✅ [Verificado Tipos Triangulo](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Verificar%20Tipos%20Triangulo) | Trecho de código que solicita tres valores dos lados do triangulo, verifica se os valores formam um triangulo, e diz qual triangulo é formado.
+
 ✅ [Gerador de senha Aleatória - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/GeradorSenhaAleatoria) | Trecho de código que gera senha alatória contendo numeros, letras maiusculas, minusculas e caracteres especiais.
 
 ✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
