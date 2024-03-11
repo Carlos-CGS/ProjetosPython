@@ -20,7 +20,9 @@
 
 ✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
 
-✅ [Maega-Sena Simulator](https://github.com/Carlos-CGS/ProjetosPython/tree/main/MegaSena_Simulator) | Simulador de criação de jogos de seis números para Mega Sena, de duas formas de sintaxe, a correta e a fácil de entender.
+✅ [Mega-Sena Simulator](https://github.com/Carlos-CGS/ProjetosPython/tree/main/MegaSena_Simulator) | Simulador de criação de jogos de seis números para Mega Sena, de duas formas de sintaxe, a correta e a fácil de entender.
+
+✅ [Probabilidade Numeros Sorteados - MegaSena/LotoFacil](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Probabilidade%20Numeros%20Sorteados) | Simulador de criação de jogos da MegaSena ou LotoFacil, apresentando a probabilidade dos numeros mais sorteados, perguntado ao usuário quantos sorteios ele deseja.
 
 ✅ [Relógio Digital em Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Rel%C3%B3gio%20Digital%20em%20Python) | Projeto onde crio um relógio digital com interface.
 
