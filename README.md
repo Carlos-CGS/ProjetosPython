@@ -1,6 +1,8 @@
 # <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png" height="50"> Projetos Desenvolvidos em Linguagem Python
 
-✅ [App Bancário Upgrade](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio%20Upgrade) | Desafios de Códigos propostos pela DIO para aprimorar o aplicativo bancário anterior com algumas funções a mais.
+✅ [App Bancário Classes](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Bancario%20Classes) | Desafios de Projeto propostos pela DIO para aprimorar o aplicativo bancário, desta vez fazendo um upgrade no código adiconando classes e POO - DIO.
+
+✅ [App Bancário Upgrade](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio%20Upgrade) | Desafios de Projeto propostos pela DIO para aprimorar o aplicativo bancário anterior com algumas funções a mais.
 
 ✅ [App Bancário Simples](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio) | Aplicativo que simila um banco com algumas regras de negócio, este exercício foi proposto em um bootcamp da DIO.
 
