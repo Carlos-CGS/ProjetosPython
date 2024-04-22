@@ -1,4 +1,4 @@
-# Projeto Jogo da Forca
+# Projeto Jogo da Forca com Pyhthon
 
 ### Biblioteca Utilizada - random
 ### Projeto simples de um jogo da forca que faz um sorteia entre as palavras de uma lista.
