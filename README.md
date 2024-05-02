@@ -17,6 +17,7 @@
 ✅ [Desafio de Projeto ETL(Extract - Transform - Load) - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Projeto%20-%20ETL%20-%20SantaderDevWeek) | Bootcamp Santander 2023 - Ciência de Dados com Python.
 
 ✅ [Encriptador e Desencriptador de Senha Numérica](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Encriptador%20Senha) | Proposta de um Encriptador e Desencriptador de senha básico em python que criado do zero;
+
 ✅ [Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Interpola%C3%A7%C3%A3o%20de%20Variaveis%20-%20Python) | Interpolação de Variáveis.
 
 ✅ [Jogo da Forca](https://github.com/Carlos-CGS/ProjetosPython/tree/main/JogodaForca) | Jogo da Forca em Python.
