@@ -10,6 +10,8 @@
 
 ✅ [Desafio de Código - Powered by Ifood - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Codigo%20BootCamp%20-%20Pot%C3%AAncia%20Tech%20powered%20by%20iFood%20-%20Ci%C3%AAncia%20de%20Dados) | Resolução de cinco desafios de código do BootCamp Potência Tech powered by iFood | Ciência de Dados.
 
+✅ [Desafio de Código - Python AI Backend Developer - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Codigo%20BootCamp%20-%20Python%20AI%20Backend%20Developer) | Resolução de três desafios de código do BootCamp Python AI Backend Developer.
+
 ✅ [Desafio de Código - Python Data Analytics - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Codigo%20Bootcamp%20-%20Python%20Data%20Analytics%20-%20DIO) | Resolução de três desafios de código do BootCamp Python Data Analytics.
 
 ✅ [Desafio de Projeto ETL(Extract - Transform - Load) - DIO](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Desafio%20Projeto%20-%20ETL%20-%20SantaderDevWeek) | Bootcamp Santander 2023 - Ciência de Dados com Python.
