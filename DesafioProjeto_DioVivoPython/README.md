@@ -18,5 +18,6 @@ Ebook totalmente eleaborado por Interligencia Artificial Generativa.
 
 ## 🚀 Resultados
 ![texto](imagemEbookPagina01.png)
+
 Segue em anexo o pdf do ebook.
 
