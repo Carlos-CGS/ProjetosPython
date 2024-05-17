@@ -2,7 +2,7 @@
 # Ebook - Introdução ao Tkinter
 
 ## 📒 Descrição
-Ebook totalmente eleaborado por Interligencia Artificial Generativa. 
+Ebook totalmente elelaborado por Interligencia Artificial Generativa. 
 
 ## 🤖 Tecnologias Utilizadas
  - GammaApp para gerar o slide/Pdf;
