@@ -41,3 +41,5 @@ Antes de executar o código, é necessário instalar as seguintes bibliotecas Py
 - Obs:. Certifique-se de permitir o acesso ao microfone para que o reconhecimento de voz funcione corretamente.
 
 > Este é apenas um exemplo básico de como utilizar reconhecimento de voz para executar ações específicas em Python. Você pode expandir e personalizar este código de acordo com suas necessidades e integrá-lo em projetos mais complexos de automação ou assistentes virtuais.
+
+![texto](jarvis.jpg)
