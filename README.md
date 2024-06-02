@@ -26,6 +26,8 @@
 
 ✅ [Jogo da Forca](https://github.com/Carlos-CGS/ProjetosPython/tree/main/JogodaForca) | Jogo da Forca em Python.
 
+✅ [Lista Tarefas](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Lista%20Tarefas) | Lista de tarefas simples com terminal iterativo.
+
 ✅ [Estruturas Básicas - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Estruturas%20Basicas) | Apresentação de estruturas como conversão de variáveis, for, while, listas, dicionários e funções em pyhthon.
 
 ✅ [Gerador de senha Aleatória - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/GeradorSenhaAleatoria) | Trecho de código que gera senha alatória contendo numeros, letras maiusculas, minusculas e caracteres especiais.
