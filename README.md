@@ -1,5 +1,7 @@
 # <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png" height="50"> Projetos Desenvolvidos em Linguagem Python
 
+✅ [Analise Sentimentos](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Analise%20Sentimentos) | Código Análise de Sentimentos, o qual recebe o input de uma mensagem e informa se a mensagem é positiva, negativa ou neutra.
+
 ✅ [App Bancário Classes](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Bancario%20Classes) | Desafios de Projeto propostos pela DIO para aprimorar o aplicativo bancário, desta vez fazendo um upgrade no código adiconando classes e POO - DIO.
 
 ✅ [App Bancário Upgrade](https://github.com/Carlos-CGS/ProjetosPython/tree/main/App%20Banc%C3%A1rio%20Upgrade) | Desafios de Projeto propostos pela DIO para aprimorar o aplicativo bancário anterior com algumas funções a mais.
