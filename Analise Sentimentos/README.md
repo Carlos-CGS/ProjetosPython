@@ -28,3 +28,5 @@ Crie um artigo sobre o código python abaixo, respeitando as regras descritas ap
 
 ### Comando usado para gerar os títulos do meu artigo:
 > gere 10 títulos para este artigo, que tragam engajamento e interesso dos programados.
+
+Segue o Link do Artigo desenvolvido na Plataforma da DIO: https://web.dio.me/articles/crie-seu-proprio-analisador-de-sentimentos-com-python-em-minutos?back=%2Farticles&page=1&order=oldest
