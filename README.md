@@ -32,6 +32,8 @@
 
 ✅ [Estruturas Básicas - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Estruturas%20Basicas) | Apresentação de estruturas como conversão de variáveis, for, while, listas, dicionários e funções em pyhthon.
 
+✅ [Exemplo Pandas](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Exemplo%20Pandas) | Exemplos de uso da Biblioteca Pandas, utilizando um arquivo.csv como base.
+
 ✅ [Gerador de senha Aleatória - Python](https://github.com/Carlos-CGS/ProjetosPython/tree/main/GeradorSenhaAleatoria) | Trecho de código que gera senha alatória contendo numeros, letras maiusculas, minusculas e caracteres especiais.
 
 ✅ [Maior Idade - CNH](https://github.com/Carlos-CGS/ProjetosPython/tree/main/Maior%20Idade%20CNH%20-%20Python) | Trecho de código python que verifica se a pessoa possui a idade para tirar a CNH.
