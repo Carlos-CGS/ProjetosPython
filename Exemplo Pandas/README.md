@@ -1,4 +1,4 @@
-# Documentação do Script `manipular_vendas.py`
+# Exemplos de uso da Biblioteca Pandas
 
 ## Descrição
 
