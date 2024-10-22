@@ -28,6 +28,8 @@ Este projeto é uma interface gráfica simples criada em Python usando a bibliot
 
 O algoritmo utilizado para a geração dos hashes dos arquivos é o RIPEMD-160 , uma função hash criptográfica que gera uma string de 160 bits. É muito utilizado para garantir a integridade dos arquivos, garantindo que mesmo a menor alteração no conteúdo do arquivo gere um hash completamente diferente.
 
+## Segue também um executável deste código para ser utilizado no dia a dia.
+
 ## Contribuições
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicionar novas funcionalidades, fique à vontade para enviar um pull request.
