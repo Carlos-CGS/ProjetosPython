@@ -1,4 +1,4 @@
-# Comparador de Hashes - CGS
+# Comparador de Hashes - Python
 
 Este projeto é uma interface gráfica simples criada em Python usando a biblioteca `Tkinter` para comparar os hashes de dois arquivos. Ele utiliza o algoritmo **RIPEMD-160** para gerar os hashes e exibe se os arquivos são iguais ou diferentes.
 
