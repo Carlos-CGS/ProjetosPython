@@ -9,7 +9,7 @@ from PIL import Image, ImageTk
 load_dotenv()
 
 # Configurar a API
-genai.configure(api_key=os.getenv("YOUR_API_KEY"))
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
 filepath = None
